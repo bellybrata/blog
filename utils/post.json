@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Internet",
+    "date": "June 28, 2021",
+    "title": "Lorem ipsum dolor sit amet",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Belly Brata",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Software Developer"
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Front End",
+    "date": "August 17, 2021",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Stefani Claudia",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Head of Marketing"
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Front End",
+    "date": "August 17, 2021",
+    "title": "Lorem ipsum dolor sit amet",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Stefani Claudia",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Head of Marketing"
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Front End",
+    "date": "August 17, 2021",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Stefani Claudia",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Head of Marketing"
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Books",
+    "date": "August 17, 2021",
+    "title": "Lorem ipsum dolor sit amet",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Stefani Claudia",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Head of Marketing"
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://placekitten.com/700/400",
+    "category": "Back End",
+    "date": "August 17, 2021",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "slug": "lorem-ipsum-dolor-sit-amet",
+    "headLine": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis neque luctus, ullamcorper massa a, semper augue. Ut sit amet nisi a elit dapibus sagittis. Sed consectetur facilisis nisi ut faucibus. In luctus velit ac arcu volutpat interdum.",
+    "authorName": "Stefani Claudia",
+    "authorAvatar": "https://placekitten.com/400/400",
+    "authorJob": "Head of Marketing"
+  }
+]
